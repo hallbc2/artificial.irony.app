@@ -1,8 +1,8 @@
-## TikSaved: Privacy Policy
+## Privacy Policy
 
-Welcome to TikSaved!
+Welcome!
 
-This is an application that uses the TikSaved algorithm developed by KThinking.
+This is an application that uses an algorithm developed by hallbc2.
 
 Features:
 
@@ -10,7 +10,7 @@ Features:
 - Download tiktok videos no watermark HD, MP3
 - Save and share everything easily (Video, mp3 etc.)
 
-If you choose not to read this entire Privacy Policy, we would like you to review some key points about TikSaved's privacy practices:
+If you choose not to read this entire Privacy Policy, we would like you to review some key points about the privacy practices:
 
 The application allows Find and download tiktok videos no watermark HD, MP3 and save them with 1 click.
 
@@ -26,4 +26,4 @@ The video will be deleted immediately after the editing process is complete.
 
 If you have any questions about how the app protects your privacy, please email me and I will definitely try to fix/help you.
 
-phamkiem.dev@icloud.com or kaipham279@gmail - KThinking
+hallcharter@gmail.com
