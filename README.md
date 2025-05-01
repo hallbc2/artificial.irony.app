@@ -2,13 +2,12 @@
 
 Welcome!
 
-This is an application that uses an algorithm developed by hallbc2.
+This app allows users to upload social media posts through the API directly to their tiktok account with AI automations.
 
 Features:
-
-- Record livestream
-- Download tiktok videos no watermark HD, MP3
-- Save and share everything easily (Video, mp3 etc.)
+Record livestream
+Upload tiktok videos directly through API
+Save and share everything easily (Video, mp3 etc.)
 
 If you choose not to read this entire Privacy Policy, we would like you to review some key points about the privacy practices:
 
